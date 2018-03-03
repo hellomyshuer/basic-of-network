@@ -1,0 +1,115 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @hellomyshuer
+ Sign out
+ Watch 0
+  Star 0  Fork 0 hellomyshuer/basic-of-network
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+basic-of-network/ 
+Name your file…
+ or cancel
+ Edit new file    Preview
+1 因特网概述
+1.1 网络
+    网络(network)由若干结点(node)和连接这些结点的链路(link)组成.
+                      --网络的结点可以是计算机、集线器、交换机和路由器等.
+                      
+    --网络可以通过路由器互连起来,这样就构成了一个覆盖范围更大的网络,即互联网,互联网是“网络中的网络”.
+    
+    
+1.2 因特网   
+    因特网(Internet)是世界上最大的互联网络,习惯上,把连接在因特网上的计算机都称为主机(host).
+        
+    --路由器是一种特殊的计算机，它是连接不同网络的专用设备，用户并不直接使用路由器处理信息，因此不把路由器称为主机.
+    
+    
+    
+基本概念：网络把许多计算机连接在一起，而互联网则把许多网络连接在一起.因特网是世界上最大的互联网.
+
+         --物理网络                  --逻辑网络
+         
+         
+2.1 因特网发展三个阶段
+    第一阶段--从单个网络ARPANET向互联网发展.
+                      --1969年，美国国防部创建的第一个分组交换网ARPANET最初只是一个单个的分组交换网,所有要连接
+                        在ARPANET上的主机都直接与就近的结点交换机相连.
+                      --1983年,TCP/IP协议成为ARPANET上的标准协议,所有使用TCP/IP协议的计算机都能利用互联网进行
+                        通信.   因特网诞生年
+                      --1990年，ARPANET正式宣布关闭.
+                      
+            --internet(互联网或互连网)是一个通用名词，它泛指由多个计算机网络互连而成的网络.
+            --Internet(因特网)是一个专用名词，它指当前全球最大的、开放的、由众多网络相互连接而成的特定计算机网络
+              ,它采用TCP/IP协议簇作为通信规则，且前身是美国的ARPANET.
+              
+    第二阶段--逐步建成了三级结构的因特网.
+                      --1985年起,美国国家科学基金会(National Science Foundation, NSF)围绕6个大型计算机中心建
+                        设计算机网络,即国家科学基金网NSFNET.
+                                      --三级计算机网络，分为主干网、地区网和校园网(企业网).
+                      --1991年,NSF和美国其他政府机构开始认识到,因特网必将扩大其使用范围,不应仅限于大学和研究机构.
+                        世界上的许多公司纷纷接入因特网,网络通信量急剧增加,因特网容量不能满足需求.美国政府将因特网
+                        主干网转交私人公司经营,并开始对接入因特网的单位收费.
+                        
+    第三阶段--逐渐形成了多层次ISP(Internet Service Provider)结构的因特网.
+                      --1993年开始，美国政府资助的NSFNET逐渐被若干个商用的因特网主干网替代,而政府机构不再负责因特
+                        网的运营,而让各种ISP来运营.
+                        
+    NGI
+    CNGI
+    
+    
+    
+    
+1.3 因特网标准化工作
+    因特网协会(Internet Society, ISOC),对因特网进行全面管理,在世界范围内促进其发展和使用.
+              --因特网体系结构委员会(Internet Architecture Board, IAB),负责因特网有关协议的开发.
+                                   --因特网工程部(Internet Engineering Task Force, IETF),负责研究短期和中期的
+                                     工程问题,主要是针对协议的开发和标准化.
+                                   --因特网研究部(Internet Research Task Force, IRTF),从事理论方面研究和开发一
+                                     些需要长期考虑的问题.
+    
+    RFC(Request For Comments)
+    制定因特网的正式标准要经过一下4个阶段：
+    (1)因特网草案(Internet Draft)--还不是RFC文档
+    (2)建议标准(Proposed Standard)--开始成为RFC文档
+    (3)草案标准(Draft Standard)
+    (4)因特网标准(Internet Standard)
+    
+    
+    
+    
+    
+2 因特网组成
+2.1
+    
+    
+    
+    
+    
+@hellomyshuer
+Commit new file
+
+Internet
+
+qq
+  Commit directly to the no.1-因特网 branch.
+  Create a new branch for this commit and start a pull request. Learn more about pull requests.
+
+hellomyshuer-patch-1
+ Propose new file Cancel
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
